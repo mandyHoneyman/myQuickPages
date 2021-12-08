@@ -1,0 +1,2 @@
+# myQuickPages
+to host files
